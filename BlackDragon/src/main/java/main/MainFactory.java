@@ -1,4 +1,6 @@
-package Main;
+package main;
+
+import userInterface.ConsoleHelper;
 
 public class MainFactory {
 	private static ConsoleHelper conHel = new ConsoleHelper();

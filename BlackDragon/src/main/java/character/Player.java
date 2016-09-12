@@ -1,9 +1,9 @@
-package Character;
+package character;
 
-import Main.ConsoleHelper;
-import Main.MainFactory;
-import Map.City;
-import Map.Terrain;
+import main.MainFactory;
+import map.City;
+import map.Terrain;
+import userInterface.ConsoleHelper;
 
 public class Player {
 	ConsoleHelper conHel;

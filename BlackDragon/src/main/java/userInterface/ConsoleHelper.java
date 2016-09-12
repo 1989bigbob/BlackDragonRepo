@@ -1,4 +1,4 @@
-package Main;
+package userInterface;
 
 import java.io.BufferedReader;
 import java.io.IOException;
